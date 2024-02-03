@@ -10,8 +10,8 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-advice-generator-app-using-flex-and-grid-z1RdpgyVM0](https://your-solution-url.com)
+- Live Site URL: [https://belkysupreme22.github.io/advice-generator-app.io/](https://your-live-site-url.com)
 
 ## My process
 
