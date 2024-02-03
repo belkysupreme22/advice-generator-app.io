@@ -1,6 +1,9 @@
 const dice = document.getElementById("dice");
 const adviceNum = document.getElementById("advice-id");
 const advices = document.getElementById("advices");
+
+window.onload = getAdvice;
+
 dice.addEventListener("click", () => {
   dice.style.boxShadow = "-2px -2px 50px hsl(150, 100%, 66%)";
   getAdvice();
