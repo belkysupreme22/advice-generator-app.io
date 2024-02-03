@@ -22,11 +22,8 @@
   </head>
   <body>
     <div class="advice-container">
-      <h1>Advice #117</h1>
-      <p>
-        "It's easy to sit up and take notice, what's difficult is getting up and
-        taking action"
-      </p>
+      <h1>Advice #<span id="advice-id"></span></h1>
+      <p id="advices"></p>
       <div class="pattern">
         <img
           src="images/pattern-divider-mobile.svg"
@@ -43,11 +40,6 @@
         <img src="images/icon-dice.svg" alt="" />
       </div>
     </div>
-    <script>
-      const dice = document.getElementById("dice");
-      dice.addEventListener("click", () => {
-        dice.style.boxShadow = "-2px -2px 50px hsl(150, 100%, 66%)";
-      });
-    </script>
+    <script src="index.js"></script>
   </body>
 </html>
